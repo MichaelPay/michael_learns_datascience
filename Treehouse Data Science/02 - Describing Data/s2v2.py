@@ -13,4 +13,4 @@ def number_of_records2(data_sample):
 
 number_of_ties_my_csv = number_of_records2(my_csv)
 
-print(number_of_ties_my_csv, "ties in our data sample")
+#print(number_of_ties_my_csv, "ties in our data sample")
