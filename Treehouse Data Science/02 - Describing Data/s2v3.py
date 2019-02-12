@@ -34,4 +34,4 @@ def calc_numpy_sum(price):
 
 price = my_csv['priceLabel']
 my_sum = calc_numpy_sum(price)
-print(my_sum)
+# print(my_sum)
